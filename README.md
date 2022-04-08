@@ -1,21 +1,13 @@
 # 33-OOP
 
-OOP Conponents, Interfaces, Abstract Classes, Nested Classes.  
+OOP Conponents: Inheritance, Composition, Encapsulation, Polymorphism;   
+Interfaces, Abstract Classes, Nested Classes.  
 Constructors, this(), super(), Overloading, Overriding.  
-OOP Components  
--  Inheritance,  
--  Composition,  
--  Encapsulation,  
--  Polymorphism; 
 
-
-
-
-[BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git)  
 
 Object Instance:    
--	State – fields   
--	Behavior - methods  
+-  State – fields   
+-  Behavior - methods  
 
 Class: template, blueprint for creating objects.  
 A Object is an Instance of a class.  
