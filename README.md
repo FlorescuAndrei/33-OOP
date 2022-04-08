@@ -5,17 +5,6 @@ Interfaces, Abstract Classes, Nested Classes.
 Constructors, this(), super(), Overloading, Overriding.  
 
 
-Object Instance:    
--  State – fields   
--  Behavior - methods  
-
-Class: template, blueprint for creating objects.  
-A Object is an Instance of a class.  
-
-Local variables = method variables  – inside a method      
-Member variables = class variables = fields.     
-When creating a field you must specify the access modifier(public, private…)  
-
 **OOP Components**  4:   
 -	 inheritance(is - magic word),   
 -  composition(has - magic word),   
@@ -79,9 +68,19 @@ Instantiate inner Gear class that is inside Gearbox class:
 -  If the inner class is public we can use following code:  
       -  Gearbox mcLaren = new Gearbox(6);  
       -  Gearbox.Gear first = mcLaren.new Gear(1, 12.3);  
--  Else if inner class is private we can access it throw outer class public methods. In general inner class will be private.
+-  Else if inner class is private we can access it throw outer class public methods. In general inner class will be private.  
 
+Notes:  
+Object:    
+-  State – fields   
+-  Behavior - methods  
 
+Class: template, blueprint for creating objects.  
+A Object is an Instance of a class.  
+
+Local variables = method variables  – inside a method      
+Member variables = class variables = fields.     
+When creating a field you must specify the access modifier(public, private…)  
 
 
 
