@@ -6,8 +6,8 @@ Constructors, this(), super(), Overloading, Overriding.
 
 
 **OOP Components**  4:   
--	 inheritance(is - magic word),   
--  composition(has - magic word),   
+-	 inheritance(is),   
+-  composition(has),   
 -	 encapsulation,  
 -	 polymorphism    
 
