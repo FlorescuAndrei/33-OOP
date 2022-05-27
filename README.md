@@ -11,7 +11,7 @@ Constructors, this(), super(), Overloading, Overriding.
 -	 encapsulation,  
 -	 polymorphism    
 
-(Interfaces CAN: magic word)  
+(Interfaces - can)  
 
 **Encapsulation** – restrict access to some components of the object, protect the member of a class from external access.  
 **Polymorphism** – the method or the mechanism that allows actions to act differently based on the actual object that the action is being performed on. Subclasses of a superclass override a method and return different results depending on what subclass was used for the method.  
