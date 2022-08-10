@@ -27,7 +27,7 @@ Constructors, this(), super(), Overloading, Overriding.
 -  same signature( name and arguments(parameters)),                         
 -  same return type or covariant (subclass),   
 -  @Overriding  
--  can not overriding static methods   
+-  can not override static methods   
 
 
 
