@@ -46,7 +46,7 @@ Dog is an animal, Dog can walk  -> extends(inherit from) Animal class, implement
 Bird is an animal, Bird can walk, Bird can fly - > extends Animal, implements Walk interface and Fly interface.  
 
 **Abstract Classes**  
-Abstract classes provide methods without implementation like inerfaces, but abstract classes can also have normal methods and costructor.  
+Abstract classes provide methods without implementation like interfaces, but abstract classes can also have normal methods and costructor.  
 Abstract classes cannot be instantiated even if they have constructor. The constructor can be used in subclasses using super().  
 Abstract method must be implemented. We force the class that extend from the abstract class to implement the abstract methods.  
 Interfaces are abstract.
