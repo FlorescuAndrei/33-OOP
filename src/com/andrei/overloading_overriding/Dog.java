@@ -6,7 +6,7 @@ public class Dog {
         System.out.println("woof");
     }
 
-    //Overloading  - same name, same parameters, (can return different type), usually same class
+    //Overloading  - same name, different parameters, (can return different type), usually same class
     public void bark(int number){
         for(int i = 0; i < number; i++){
             System.out.println("woof");
@@ -16,7 +16,7 @@ public class Dog {
 
     class GermanShepherd extends Dog{
 
-        //Same name, same parameters, children class
+        //Same name, same parameters, same return type or covariant children class
         @Override
         public void bark(){
             System.out.println("woof, woof, woof");
